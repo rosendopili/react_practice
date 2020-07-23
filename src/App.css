@@ -4,3 +4,28 @@
   width: 100vw; 
 }
 
+.footer{
+  width: 100vw; 
+  height: 120px; 
+  background-color: #343a40; 
+  position: absolute; 
+  bottom: 0; 
+  left: 0; 
+  display: flex; 
+}
+.logo{
+  width: 126px; 
+  height: 80px; 
+  object-fit: cover; 
+  border: none; 
+  box-shadow: 0px 5px 10px black; 
+  margin-left: 0px; 
+}
+.footer_logo{
+  width: 100px; 
+  height: 100px; 
+  object-fit: cover; 
+  margin: 10px;
+  margin-left: 16px; 
+  box-shadow: 0px 5px 10px black;  
+}
